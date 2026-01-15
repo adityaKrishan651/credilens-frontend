@@ -1,0 +1,14 @@
+.results-page {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
+
+.card {
+  border-radius: 14px;
+}
+
+.badge {
+  padding: 0.6rem 1.4rem;
+  border-radius: 50px;
+}
